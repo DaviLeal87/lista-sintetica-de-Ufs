@@ -17,6 +17,7 @@
         }
         h2{
             color: blueviolet;
+            text-align: center;
         }
         body{
             background: black;
